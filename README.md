@@ -23,9 +23,11 @@ Future commits to the selected branch automatically publish updates. No build to
 | `script.js` | Mobile menu and publication filtering |
 | `sources.html` | Research sources and attribution notes |
 | `assets/Keiwan_Soltani_CV.pdf` | Replace with your updated CV using the same filename |
-| `assets/drone.mp4` | Drone video |
+| `assets/drone.mp4` | 13-second bench-integration demonstration |
+| `assets/drone-flight.mp4` | Complete 47-second portrait flight test; silent, 720 × 1280 |
 | `assets/drone.jpg` and `assets/mini-drone.jpg` | Project photos |
-| `assets/video-poster.jpg` | Video preview image |
+| `assets/video-poster.jpg` | Bench-demonstration preview image |
+| `assets/drone-flight-poster.jpg` | Flight-test preview image |
 
 For text changes, open the file on GitHub, choose the pencil icon, edit, and commit. For replacement media, use **Add file → Upload files** in the assets folder. Keep filenames unchanged unless you also update their references in `index.html`.
 
@@ -33,6 +35,6 @@ To preview locally, open `index.html` in a browser. All website links use relati
 
 ## Content and sources
 
-Portfolio content and the downloadable CV were updated November 24, 2026. Public source research dates from November 9, 2026. See `sources.html` for citations and qualifications. The package includes the supplied CV with its original contact information and the full converted drone video. GitHub Pages publishes the site to the public internet.
+Portfolio content and the downloadable CV were updated November 24, 2026. Public source research dates from November 9, 2026. See `sources.html` for citations and qualifications. The package includes the supplied CV with its original contact information and the bench-integration demonstration and the complete drone flight-test video. GitHub Pages publishes the site to the public internet.
 
 The portfolio and media are Keiwan Soltani’s portfolio materials. Linked papers and third-party resources retain their respective rights.
