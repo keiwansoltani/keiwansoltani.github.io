@@ -1,6 +1,8 @@
 # Keiwan Soltani — Professional Portfolio
 
-A responsive static portfolio featuring research publications, UAV projects, AI applications, and professional experience.
+A responsive research portfolio focused on scientific machine learning, optimization, distributed systems, and engineering applications. Published work and manuscripts under review are listed separately.
+
+Live website: https://keiwansoltani.github.io/
 
 ## Publish with GitHub Pages
 
@@ -31,6 +33,6 @@ To preview locally, open `index.html` in a browser. All website links use relati
 
 ## Content and sources
 
-Sources were reviewed November 9, 2026. See `sources.html` for citations and qualifications. The package includes the supplied CV with its original contact information and the full converted drone video. GitHub Pages publishes the site to the public internet.
+Portfolio content and the downloadable CV were updated November 24, 2026. Public source research dates from November 9, 2026. See `sources.html` for citations and qualifications. The package includes the supplied CV with its original contact information and the full converted drone video. GitHub Pages publishes the site to the public internet.
 
 The portfolio and media are Keiwan Soltani’s portfolio materials. Linked papers and third-party resources retain their respective rights.
