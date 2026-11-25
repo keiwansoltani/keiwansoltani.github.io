@@ -10,3 +10,9 @@
 .media-grid .flight-test{grid-column:1/-1}
 .media-grid .flight-test video{height:min(56vw,520px);object-fit:contain}
 @media(max-width:760px){.media-grid .flight-test{grid-column:auto}.media-grid .flight-test video{height:auto;max-height:520px;min-height:0;aspect-ratio:9/16}}
+
+/* Display all three drone media cards as three equal columns. */
+.media-grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+.media-grid .flight-test{grid-column:auto}
+.media-grid .flight-test video{height:360px;object-fit:contain}
+@media(max-width:760px){.media-grid{grid-template-columns:1fr}.media-grid .flight-test video{height:auto;max-height:520px;min-height:0;aspect-ratio:9/16}}
